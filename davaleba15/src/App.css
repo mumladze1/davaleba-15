@@ -1,0 +1,21 @@
+body.light {
+  background-color: #fff;
+  color: #000;
+}
+
+body.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #008cba;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #005f5f;
+}
